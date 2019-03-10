@@ -8,4 +8,4 @@ Bootstrap<br/>
 nodeJS<br/>
 
 
-https://obscure-sierra-82500.herokuapp.com/
+https://mjc5776.github.io/ClickyGame/
