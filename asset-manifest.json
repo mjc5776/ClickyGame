@@ -1,5 +1,5 @@
 {
-  "main.css": "/ClickyGame/static/css/main.bc0d1392.chunk.css",
+  "main.css": "/ClickyGame/static/css/main.d30dd555.chunk.css",
   "main.js": "/ClickyGame/static/js/main.cc9eaa5b.chunk.js",
   "main.js.map": "/ClickyGame/static/js/main.cc9eaa5b.chunk.js.map",
   "runtime~main.js": "/ClickyGame/static/js/runtime~main.038e769c.js",
@@ -7,7 +7,7 @@
   "static/js/2.822769df.chunk.js": "/ClickyGame/static/js/2.822769df.chunk.js",
   "static/js/2.822769df.chunk.js.map": "/ClickyGame/static/js/2.822769df.chunk.js.map",
   "index.html": "/ClickyGame/index.html",
-  "precache-manifest.898792f3fd0657a5e5d7d2b86c347555.js": "/ClickyGame/precache-manifest.898792f3fd0657a5e5d7d2b86c347555.js",
+  "precache-manifest.1f0c01370b730f11db1774f69113bbe0.js": "/ClickyGame/precache-manifest.1f0c01370b730f11db1774f69113bbe0.js",
   "service-worker.js": "/ClickyGame/service-worker.js",
-  "static/css/main.bc0d1392.chunk.css.map": "/ClickyGame/static/css/main.bc0d1392.chunk.css.map"
+  "static/css/main.d30dd555.chunk.css.map": "/ClickyGame/static/css/main.d30dd555.chunk.css.map"
 }
