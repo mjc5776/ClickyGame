@@ -1,6 +1,6 @@
 # ClickyGame
 
-This project is memmory game created using React. 
+This project is memory game created using React. 
 
 <strong>Libraries, Packages Used</strong> <br/>
 React<br/>
